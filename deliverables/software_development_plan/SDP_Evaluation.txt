@@ -1,0 +1,32 @@
+
+
+Evaluation and Feedback
+CMSI 4072 project ~ Spring 2024
+Betram Lalusha
+Visor project
+=============================================
+
+Software Development Plan Document:
+---------------------------------------------
+-- General Comments
+   EXCELLENT work on this document, Betram!  You really nailed this ~ the
+   deliverables section in particular is right on the money.  Also, I like
+   the way you divided the tasks up by the Designer and Engineer without
+   putting a name for them ~ a good way to make those assignments!
+
+-- Introduction Section
+   Perfect ~ no further comments, nothing to add for the second submission.
+
+-- Project Resources Section
+   Perfect ~ no further comments, nothing to add for the second submission.
+
+-- Project Organization Section
+   Perfect ~ no further comments, nothing to add for the second submission.
+
+-- Project Schedule Section
+   Perfect ~ no further comments, nothing to add for the second submission.
+
+=============================================================================
+your score:  10% out of 10% which is an A-plus
+
+You are good to go.  Full credit for both the first and second submission.
